@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://birchwood-digital-partners.com/sitemap.xml
+Sitemap: https://birchwood-digital-partners.onrender.com/sitemap.xml
